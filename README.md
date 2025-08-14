@@ -53,7 +53,7 @@ The goal is to:
 ### **Task 1 – EV Filtering & Grouping**
 **Objective:** Help a customer with a **budget of 350,000 PLN** and a **minimum range of 400 km**.
 1. Filter EVs meeting the criteria. *(2 Marks)*
-2. Group the filtered EVs by manufacturer (**Make**). *(6 Marks)*
+2. Group the filtered EVs by manufacturer (**Make**). **
 3. Calculate the **average battery capacity** for each manufacturer. **
 
 ---
@@ -64,8 +64,8 @@ The goal is to:
 ---
 
 ### **Task 3 – Relationship Analysis**
-- **a)** Create a plot showing the relationship between **Battery Capacity** and **Range (WLTP)**. *(8 Marks)*  
-- **b)** Highlight insights from the visualization. *(8 Marks)*
+- **a)** Create a plot showing the relationship between **Battery Capacity** and **Range (WLTP)**. **  
+- **b)** Highlight insights from the visualization. **
 
 ---
 
